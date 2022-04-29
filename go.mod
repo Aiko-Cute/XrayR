@@ -18,9 +18,13 @@ require (
 	github.com/spf13/viper v1.11.0
 	github.com/stretchr/testify v1.7.1
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
+  dependabot/go_modules/github.com/xtls/xray-core-1.5.5
 	github.com/urfave/cli v1.22.5
 	github.com/xtls/xray-core v1.5.5
 	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861
+	github.com/urfave/cli v1.22.8
+	github.com/xtls/xray-core v1.5.4
+	golang.org/x/net v0.0.0-20220412020605-290c469a71a5
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.0
 )
