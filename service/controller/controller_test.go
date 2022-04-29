@@ -8,10 +8,10 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/XrayR-project/XrayR/api"
-	"github.com/XrayR-project/XrayR/api/sspanel"
-	_ "github.com/XrayR-project/XrayR/main/distro/all"
-	. "github.com/XrayR-project/XrayR/service/controller"
+	"github.com/Aiko-Cute/XrayR/api"
+	"github.com/Aiko-Cute/XrayR/api/sspanel"
+	_ "github.com/Aiko-Cute/XrayR/main/distro/all"
+	. "github.com/Aiko-Cute/XrayR/service/controller"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/infra/conf"
 )
